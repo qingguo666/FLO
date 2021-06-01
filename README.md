@@ -1,4 +1,4 @@
-# FLO ： A Novel Contrastive Mutual Information Estimator
+# FLO：A Novel Contrastive Mutual Information Estimator
 
 This is the official code repository for the paper [Tight Mutual Information Estimation With Contrastive Fenchel-Legendre Optimization](about:blank).
 
